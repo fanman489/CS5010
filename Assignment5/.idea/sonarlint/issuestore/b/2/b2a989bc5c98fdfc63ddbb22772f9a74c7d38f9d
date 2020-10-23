@@ -1,5 +1,0 @@
-
- %squid:RedundantThrowsDeclarationCheck*"jRemove the declaration of thrown exception 'java.lang.IllegalStateException' which is a runtime exception.(™ß×¸üÿÿÿÿ
-osquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ô¥®
-osquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ô¥®
-usquid:S2293H"YReplace the type specification in this constructor call with the diamond operator ("<>").(ð„×Üÿÿÿÿÿ

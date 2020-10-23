@@ -1,5 +1,0 @@
-
-£%squid:RedundantThrowsDeclarationCheck""mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(šÄâÆùÿÿÿÿ
-3squid:S3626³"Remove this redundant jump.(ûÁİ…
-[squid:S1155">Use isEmpty() to check whether the collection is empty or not.(›à«Ñúÿÿÿÿ
-Vsquid:S1155š">Use isEmpty() to check whether the collection is empty or not.(©éùÌ
