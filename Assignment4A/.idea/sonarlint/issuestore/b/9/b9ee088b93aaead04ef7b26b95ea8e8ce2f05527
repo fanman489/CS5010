@@ -1,0 +1,6 @@
+
+ž%squid:RedundantThrowsDeclarationCheck%"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(Î€’ê
+¤%squid:RedundantThrowsDeclarationCheck­"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(Ù´µäûÿÿÿÿ
+Ÿ%squid:RedundantThrowsDeclarationCheck×"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(Ý¾”Ü
+bsquid:S2095º"EUse try-with-resources or close this "Scanner" in a "finally" clause.(ê®ÌÃúÿÿÿÿ
+bsquid:S2095¿"EUse try-with-resources or close this "Scanner" in a "finally" clause.(ý”ÐÙûÿÿÿÿ

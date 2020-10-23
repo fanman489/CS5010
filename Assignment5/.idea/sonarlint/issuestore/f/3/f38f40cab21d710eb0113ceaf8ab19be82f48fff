@@ -1,0 +1,8 @@
+
+8squid:S1643j"Use a StringBuilder instead.(Ãœð’þÿÿÿÿ
+ž%squid:RedundantThrowsDeclarationCheck"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(þçÌº
+ %squid:RedundantThrowsDeclarationCheck8"jRemove the declaration of thrown exception 'java.lang.IllegalStateException' which is a runtime exception.(ö›ð·ÿÿÿÿÿ
+›%squid:RedundantThrowsDeclarationCheckx"jRemove the declaration of thrown exception 'java.lang.IllegalStateException' which is a runtime exception.(éþæÌ
+qsquid:S1192~"UDefine a constant instead of duplicating this literal "No such code exists." 3 times.(‰§ˆõøÿÿÿÿ
+Csquid:S1612>",Replace this lambda with a method reference.(øŒ—…
+Hsquid:S1612e",Replace this lambda with a method reference.(°½×ìùÿÿÿÿ
